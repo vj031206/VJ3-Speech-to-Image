@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+env/
+
+rec.wav
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+.vscode/

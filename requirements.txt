@@ -1,0 +1,7 @@
+ttkbootstrap
+Pillow
+PyAudio
+SpeechRecognition
+googletrans
+gradio-client
+deep-translator
