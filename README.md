@@ -1,9 +1,3 @@
-You're right, that's a crucial point to add for anyone trying to use your project. Hardcoding keys is fine for personal projects, but instructing others on how to use their own is best practice for sharing.
-
-Here is the updated README with a new section specifically for Hugging Face authentication.
-
------
-
 # 🎙️ VJ3-Speech-to-Image Generator
 
 A Python desktop application that listens to your voice in any language, translates it to English, and generates a unique AI image based on what you said. This project was developed as part of the Codexintern Python Developer internship.
