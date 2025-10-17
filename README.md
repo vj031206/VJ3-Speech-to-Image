@@ -36,16 +36,12 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 1\. Clone the Repository
 
-First, clone the repository to your local machine.
-
 ```bash
 git clone https://github.com/vj031206/VJ3-Speech-to-Image.git
 cd VJ3-Speech-to-Image
 ```
 
 ### 2\. Create and Activate a Virtual Environment
-
-It's best practice to create a virtual environment to manage dependencies.
 
   * **On Windows:**
     ```bash
@@ -78,23 +74,19 @@ This application connects to a model hosted on Hugging Face and **requires you t
     huggingface-cli login
     ```
 
-This will save your credentials locally and allow the application to connect successfully.
-
 ### 5\. Run the Application
 
-Once your dependencies are installed and you are logged in to Hugging Face, run the main script to launch the application.
+Once dependencies are installed and logged in to Hugging Face, run the main script to launch the application.
 
 ```bash
 python main.py
 ```
 
-*(Note: Replace `main.py` with the actual name of your main script if it's different.)*
-
 -----
 
 ## 📁 Other Projects
 
-Feel free to check out my other projects:
+Check out my other projects:
 
   * **Gemini Chatbot in Python**: [vj031206/gemini-chat-in-python](https://github.com/vj031206/gemini-chat-in-python.git)
   * **Sentiment Analyser**: [vj031206/VJ3-Sentiment-Analysis-flask](https://github.com/vj031206/VJ3-Sentiment-Analysis-flask.git)
