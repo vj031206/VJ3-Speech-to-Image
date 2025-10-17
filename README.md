@@ -7,7 +7,7 @@ A Python desktop application that listens to your voice in any language, transla
 ## ✨ Features
 
   * **🗣️ Multi-Language Support**: Speak in your native language\! The app automatically detects the language and translates it.
-  * **🖼️ AI Image Generation**: Utilizes a powerful AI model via the Gradio client to create high-quality images from text prompts. Used due to discontinuation of MonsterAPI
+  * **🖼️ AI Image Generation**: Utilizes a powerful AI model via the Gradio client to create high-quality images from text prompts. Used due to discontinuation of MonsterAPI.
   * **🔴 Live Recording**: A simple "Record" button to capture your voice input directly through your microphone.
   * **🖥️ Modern UI**: Built with Tkinter and styled with ttkbootstrap for a clean and modern user interface.
 
